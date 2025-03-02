@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkheiter_ai_github_io=self.webpackChunkheiter_ai_github_io||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"Hola","permalink":"/blog/tags/hola","description":"Hola tag description","count":1}]}')}}]);
